@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onwudiwe-ijeoma&label=Profile%20views&color=0e75b6&style=flat" alt="onwudiwe-ijeoma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onwudiwe-ijeoma" alt="onwudiwe-ijeoma" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://onwudiweijeoma.netlify.app/](https://onwudiweijeoma.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, vue**
